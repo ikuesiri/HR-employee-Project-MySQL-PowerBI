@@ -1,9 +1,9 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![!image](https://github.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/commit/4876c5bcb5b4cb74a948ff525af386bb9749865c#diff-cceb095bec92556da0e6e266c66b1f09e78cfddf4cdadad4780a74c9b006d40d)
+[!image](https://github.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/commit/4876c5bcb5b4cb74a948ff525af386bb9749865c#diff-cceb095bec92556da0e6e266c66b1f09e78cfddf4cdadad4780a74c9b006d40d)
 ## Data Used
 
-**Data** - HR Data with over 22000 rows from the year 2000 to 2020.
+**Data** - HR Data with over 22000 rows from 2000 to 2020.
 
 **Data Cleaning & Analysis** - MySQL Workbench
 
