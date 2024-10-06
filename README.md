@@ -1,5 +1,5 @@
-# HR-Dashboard-MySQL-PowerBI
-![HR-Report ](https://raw.githubusercontent.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/4876c5bcb5b4cb74a948ff525af386bb9749865c/HR-report.PNG)
+# HR-employee-Project-MySQL-PowerBI
+/![HR-Report ](https://raw.githubusercontent.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/4876c5bcb5b4cb74a948ff525af386bb9749865c/HR-report.PNG)
 
 ## Data Used
 
