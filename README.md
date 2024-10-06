@@ -33,8 +33,8 @@
  - The gender distribution across departments is fairly balanced but there are generally more male than female employees.
  - The Marketing department has the lowest turnover rate followed by Training. The highest turnover rate is  in the `Sales` departments.
  - A large number of employees come from the state of Ohio and the Lowest from the State of `Wisconsin`.
- - The net change in employees has been on an Up Trend over the years.
- [% change chart](https://github.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/blob/main/chart.PNG?raw=true)
+ - The net change in employees has been on an upward trend over the years.
+   [!chart](https://github.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/blob/main/chart.PNG?raw=true)
 - The average tenure for each department ranges between 7-9 years, with LSales having the highest.
 
 ## Limitations
