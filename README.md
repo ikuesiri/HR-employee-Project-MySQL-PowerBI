@@ -1,5 +1,5 @@
 # HR-employee-Project-MySQL-PowerBI
-/![HR-Report ](https://raw.githubusercontent.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/4876c5bcb5b4cb74a948ff525af386bb9749865c/HR-report.PNG)
+![HR-Report ](https://raw.githubusercontent.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/4876c5bcb5b4cb74a948ff525af386bb9749865c/HR-report.PNG)
 
 ## Data Used
 
@@ -34,7 +34,7 @@
  - The Marketing department has the lowest turnover rate followed by Training. The highest turnover rate is  in the `Sales` departments.
  - A large number of employees come from the state of Ohio and the Lowest from the State of `Wisconsin`.
  - The net change in employees has been on an upward trend over the years.
-   [!chart](https://github.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/blob/main/chart.PNG?raw=true)
+   ![change line chart](https://github.com/ikuesiri/HR-employee-Project-MySQL-PowerBI/blob/main/chart.PNG?raw=true)
 - The average tenure for each department ranges between 7-9 years, with LSales having the highest.
 
 ## Limitations
